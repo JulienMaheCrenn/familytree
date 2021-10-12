@@ -55,3 +55,5 @@ const thirdGen = [
         }
     },
 ];
+
+console.log(thirdGen[2].childOf());
