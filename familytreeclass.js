@@ -41,7 +41,11 @@ const thirdGen = [charles, anne, edward];
 
 //Exporting code to be tested.
 
-module.exports = margaret;
+module.exports = {FamilyMember,george};
+
+
+
+
 
 
 
