@@ -39,8 +39,9 @@ const edward = new FamilyMember("Prince Edward",[secondGen[1].name, "Prince Phil
 
 const thirdGen = [charles, anne, edward];
 
-console.log(thirdGen[1].childOf());
+//Exporting code to be tested.
 
+module.exports = margaret;
 
 
 
